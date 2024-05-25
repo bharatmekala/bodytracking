@@ -29,5 +29,13 @@ pip3 install cvzone
 
  - Face Mesh
    index into face[] (example shown on line 34/35
-   
+   link to image showing what index is what point: https://storage.googleapis.com/mediapipe-assets/documentation/mediapipe_face_landmark_fullsize.png
+
+- Hand Mesh
+  index into lmList1[]/lmList2[]
+  link to image showing what index is what points: https://ai.google.dev/static/edge/mediapipe/images/solutions/hand-landmarks.png
+
+- Pose Mesh
+  index into lmList[]\
+  link to image showing what index is what: https://ai.google.dev/edge/mediapipe/solutions/vision/pose_landmarker
 
