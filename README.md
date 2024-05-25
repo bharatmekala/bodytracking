@@ -23,6 +23,7 @@ pip3 install cvzone
 
  - In each file set the ```cap = cv2.VideoCapture(1)``` to the approrite camera, 0 - webcam, 1 - iphone cam
  - then run the files a new window will pop up showing you and the selected mesh
+ - Click q to quit
  - To track certain points on the body use the guides below
 
 ## Guide
